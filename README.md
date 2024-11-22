@@ -82,21 +82,21 @@ This project addresses the challenge of delivering personalized recommendations 
 ### Example 1: Homepage Search  
 Search for a video with the keyword "Authentic dosa recipe." Results are ranked by semantic relevance and likes/views.  
 
-![Search Results]()  
+![Search Results](search.png)  
 
 ---
 
 ### Example 2: Video Details  
 A detailed view of a video, including likes, comments, and positive sentiment percentage.  
 
-![Video Details]()  
+![Video Details](home.png)  
 
 ---
 
 ### Example 3: Sentiment Analysis Results  
 Sentiment analysis of comments, showing percentages of positive feedback.  
 
-![Sentiment Analysis]()  
+![Sentiment Analysis](mongo.png)  
 
 ---
 
@@ -108,7 +108,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Contributors  
 
-- **Jagdeesh P** - [Your GitHub Profile](https://github.com/Jagdeesh-P)  
+- **Jagdeesh P** - [Jagdeesh-P](https://github.com/Jagdeesh-P)  
 
 
 ---
