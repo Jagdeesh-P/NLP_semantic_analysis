@@ -30,38 +30,6 @@ This project addresses the challenge of delivering personalized recommendations 
 
 ---
 
-## Installation  
-
-### Prerequisites  
-- Python 3.8+  
-- MongoDB (installed and running locally or remotely)  
-- Required Python libraries: Install using `requirements.txt`.  
-
-### Steps to Set Up  
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-repo/advanced-recommendation-system.git  
-   cd advanced-recommendation-system  
-   ```  
-
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-3. Configure MongoDB:  
-   - Update the MongoDB URI in `config.py`.  
-
-4. Run the application:  
-   ```bash  
-   python app.py  
-   ```  
-
-5. Access the application at `http://127.0.0.1:5000`.  
-
----
-
 ## Application Flow  
 
 1. **Homepage**:  
