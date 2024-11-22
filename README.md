@@ -82,14 +82,14 @@ This project addresses the challenge of delivering personalized recommendations 
 ### Example 1: Homepage Search  
 Search for a video with the keyword "Authentic dosa recipe." Results are ranked by semantic relevance and likes/views.  
 
-![Search Results](search.png)  
+![Search Results](home.png)  
 
 ---
 
 ### Example 2: Video Details  
 A detailed view of a video, including likes, comments, and positive sentiment percentage.  
 
-![Video Details](home.png)  
+![Video Details](search.png)  
 
 ---
 
