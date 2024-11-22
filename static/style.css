@@ -1,0 +1,58 @@
+body {
+    background-color: brown; /* White background for contrast */
+    color: Black; /* Dark text color for readability */
+}
+
+.card {
+    background-color: #000000; /* Black card background */
+    color: black; /* White text color inside the card */
+    transition: transform 0.2s; /* Animation for hover effect */
+    border: none; /* Remove border for a cleaner look */
+    border-radius: 50px; /* Rounded corners */
+}
+
+.card:hover {
+    transform: scale(1.01); /* Slightly enlarge card on hover */
+    background-color: #333333; /* Darker gray on hover */
+}
+
+
+.card-title {
+    font-weight: bold;
+    color: Black; /* White title color */
+}
+
+.card-text {
+    color: Black; /* Lighter gray text for description */
+}
+
+.btn-link {
+    color: #007bff; /* Link color */
+}
+
+.btn-success {
+    background-color: #28a745; /* Green for like button */
+    border-color: #28a745; /* Match border with button color */
+}
+
+.btn-success:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+.btn-info {
+    background-color: #17a2b8; /* Blue for see comments button */
+    border-color: #17a2b8; /* Match border with button color */
+}
+
+.btn-info:hover {
+    background-color: #138496; /* Darker blue on hover */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Blue for post comment button */
+    border-color: #007bff; /* Match border with button color */
+}
+
+.btn-primary:hover {
+    background-color: #0069d9; /* Darker blue on hover */
+}
